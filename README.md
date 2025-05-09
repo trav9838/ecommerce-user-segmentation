@@ -58,7 +58,7 @@ This project analyzes user clickstream data from an e-commerce platform to segme
 
 | User Behavior by Hour | Category Purchase Distribution | Item Similarity | RFM Segmentation |
 |------------------------|-------------------------------|------------------|------------------|
-| ![behavior](output.pngds.png) | ![pareto](outpuhgt.png) | ![similarity](item_similarity_table.png) | ![rfm](rfm_pie.png) |
+| ![behavior](images/userbe.png) | ![pareto](images/purchase_category.png) | ![similarity](images/item_similarity_table.png) | ![rfm](images/rfm_pie.png) |
 
 
 ---
