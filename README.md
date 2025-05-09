@@ -7,7 +7,7 @@ This project analyzes user clickstream data from an e-commerce platform to segme
 ## 📌 Project Overview
 
 - **Objective:** Segment users into behavioral groups and identify product relationships based on user interactions.
-- **Dataset:** ~37 million user behavior logs (click, cart, order, etc.)
+- **Dataset:** ~28 million user behavior logs (click, cart, order, etc.)
 - **Methods:**
   - RFM modeling (Recency, Frequency)
   - Word2Vec (Gensim) to create item embeddings
