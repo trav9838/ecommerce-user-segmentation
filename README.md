@@ -71,6 +71,12 @@ This project analyzes user clickstream data from an e-commerce platform to segme
 | `item2vec_model.ipynb`      | Word2Vec training and similarity     |
 | `visualizations/`           | Key visual outputs (charts, tsne)    |
 | `data/`                     | Sample data (if permitted)           |
+---
+## 📁 Data Note
+
+The original dataset is not included in this repository due to privacy or size constraints.
+
+However, the full code and all results (charts, tables, and segmentation logic) are preserved in the notebook output. You can review the `.ipynb` file or the visual examples below to understand the complete analysis process.
 
 ---
 
@@ -80,3 +86,7 @@ This project analyzes user clickstream data from an e-commerce platform to segme
 2. Install requirements:  
    ```bash
    pip install -r requirements.txt
+
+
+
+
