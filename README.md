@@ -56,9 +56,10 @@ This project analyzes user clickstream data from an e-commerce platform to segme
 
 ## 📊 Visual Examples
 
-| RFM Segmentation | Item Embedding (t-SNE) | Item Similarity |
-|------------------|-------------------------|------------------|
-| ![rfm_chart](images/rfm_chart.png) | ![tsne](images/tsne_plot.png) | ![similarity](images/sim_table.png) |
+| User Behavior by Hour | Category Purchase Distribution | Item Similarity | RFM Segmentation |
+|------------------------|-------------------------------|------------------|------------------|
+| ![behavior](output.pngds.png) | ![pareto](outpuhgt.png) | ![similarity](item_similarity_table.png) | ![rfm](rfm_pie.png) |
+
 
 ---
 
